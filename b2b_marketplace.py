@@ -45,18 +45,21 @@ if user_type == "Buyer":
         selected_buyer = buyers.loc[buyers["company_name"] == selected_company].iloc[0]
         buyer_lat, buyer_lon = selected_buyer["latitude"], selected_buyer["longitude"]
 
-        # Need: keyword override > produce_needed column
-        need = (search_keyword if search_keyword else str(selected_buyer.get("produce_needed", ""))).strip().lower()
+        # --- FIXED LOGIC: Use buyer’s produce_needed if keyword is empty ---
+        if search_keyword.strip():
+            need = search_keyword.strip().lower()
+        else:
+            need = str(selected_buyer.get("produce_needed", "")).strip().lower()
+
+        st.session_state["current_buyer_need"] = need  # ensures refresh consistency
         st.subheader(f"🌱 Producers matching **{need if need else '—'}** near {selected_buyer['city']}")
 
         # --- Matching logic ---
         if need and need != "all":
-            # Filter producers by product text
             matches = producers[
                 producers["type_produced"].astype(str).str.lower().str.contains(need, na=False)
             ].copy()
         else:
-            # If need is 'all' or empty: consider all producers
             matches = producers.copy()
 
         # Compute distance & filter
@@ -107,23 +110,19 @@ else:
         selected_producer = producers.loc[producers["company_name"] == selected_company].iloc[0]
         prod_lat, prod_lon = selected_producer["latitude"], selected_producer["longitude"]
 
-        # Supply: keyword override > type_produced column
         supply = (search_keyword if search_keyword else str(selected_producer.get("type_produced", ""))).strip().lower()
         st.subheader(f"🛒 Buyers needing **{supply if supply else '—'}** near {selected_producer['city']}")
 
         # --- Matching logic ---
         buyers_copy = buyers.copy()
-        # Normalize text columns for safe matching
         buyers_copy["produce_needed"] = buyers_copy["produce_needed"].astype(str).str.lower()
 
         if supply:
-            # Match buyers whose need contains the supply OR who are 'all'
             matches = buyers_copy[
                 (buyers_copy["produce_needed"] == "all") |
                 (buyers_copy["produce_needed"].str.contains(supply, na=False))
             ].copy()
         else:
-            # If no supply text, just include buyers who are 'all'
             matches = buyers_copy[buyers_copy["produce_needed"] == "all"].copy()
 
         # Compute distance & filter
