@@ -1,0 +1,279 @@
+company_name,city,zip_code,naics3,stakeholder,naics_description,type_produced,category,sales_volume,latitude,longitude
+Animali Farm,Santa Maria,93454,112,Producer,Horses And Other Equine Production,"live horses,horse meat,hides,leather,glue,gelatin,manure",Animal Production & Aquaculture,93000,34.918341,-120.22017
+Bee Cal LLC,Santa Barbara,93101,112,Producer,Apiculture,"honey,beeswax,royal jelly,propolis,bee venom",Animal Production & Aquaculture,93000,34.415744,-119.696358
+Beekeepers Guild,Santa Barbara,93160,112,Producer,Apiculture,"honey,beeswax,royal jelly,propolis,bee venom",Animal Production & Aquaculture,93000,34.43703,-119.80878
+Cultured Abalone Farm LLC,Goleta,93117,112,Producer,Shellfish Farming,"mediterranean mussels,red abalone,oysters,clams,scallops",Animal Production & Aquaculture,202000,34.441302,-119.963395
+El Rancho Espanol De Cuyama,New Cuyama,93254,112,Producer,Beef Cattle Ranching And Farming,"beef,hides,leather,manure,tallow,gelatin",Animal Production & Aquaculture,1376000,34.94764,-119.688691
+Evergreen Management,Goleta,93117,112,Producer,Horses And Other Equine Production,"live horses,horse meat,hides,leather,glue,gelatin,manure",Animal Production & Aquaculture,93000,34.439566,-119.897487
+Foothill Farms Of Cuyama LLC,Cuyama,93254,112,Producer,Beef Cattle Ranching And Farming,"beef,hides,leather,manure,tallow,gelatin",Animal Production & Aquaculture,551000,34.94764,-119.688691
+Gravity Ranch Designs,Santa Ynez,93460,112,Producer,Beef Cattle Ranching And Farming,"beef,hides,leather,manure,tallow,gelatin",Animal Production & Aquaculture,276000,34.701036,-120.089769
+Karsen William Caldera Bennett,Santa Maria,93455,112,Producer,Beef Cattle Ranching And Farming,"beef,hides,leather,manure,tallow,gelatin",Animal Production & Aquaculture,826000,34.873126,-120.425964
+Los Padres Outfitters LLC,Carpinteria,93013,112,Producer,Beef Cattle Ranching And Farming,"beef,hides,leather,manure,tallow,gelatin",Animal Production & Aquaculture,1101000,34.416213,-119.541601
+Old Dairy Partners LLC,Santa Barbara,93130,112,Producer,Dairy Cattle And Milk Production,"milk,cheese,butter,yogurt,milk powder",Animal Production & Aquaculture,1101000,34.43987,-119.73641
+One Hundred Oaks Ranch LLC,Santa Ynez,93460,112,Producer,Horses And Other Equine Production,"live horses,horse meat,hides,leather,glue,gelatin,manure",Animal Production & Aquaculture,93000,34.612068,-120.027945
+Pacific Livestock Supplements,Santa Maria,93454,112,Producer,Beef Cattle Ranching And Farming,"beef,hides,leather,manure,tallow,gelatin",Animal Production & Aquaculture,1376000,34.959803,-120.434348
+Rancho LA Purisima,Buellton,93427,112,Producer,Horses And Other Equine Production,"live horses,horse meat,hides,leather,glue,gelatin,manure",Animal Production & Aquaculture,186000,34.673617,-120.184353
+San Marcos Farms,Goleta,93117,112,Producer,Apiculture,"honey,beeswax,royal jelly,propolis,bee venom",Animal Production & Aquaculture,93000,34.433808,-119.838697
+Walking U Ranch LLC,New Cuyama,93254,112,Producer,Beef Cattle Ranching And Farming,"beef,hides,leather,manure,tallow,gelatin",Animal Production & Aquaculture,1101000,34.94764,-119.688691
+Agrosource Group,Orcutt,93455,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,196000,34.917929,-120.457432
+Arc Vineyards LLC,Santa Maria,93455,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,201000,34.854609,-120.3715
+Arc Vineyards LLC,Santa Maria,93455,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.854173,-120.370598
+Aubon Climate Winery,Santa Maria,93454,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,251000,34.893604,-120.302307
+August Ridge Vineyards,Santa Barbara,93101,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,151000,34.422609,-119.703095
+Bien Nacido Vineard,Santa Maria,93455,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.885651,-120.434091
+Bien Nacido Vineyards,Santa Maria,93455,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.885651,-120.434091
+Brander Vineyard,Santa Ynez,93460,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,401000,34.65628,-120.09793
+Bruce Hilliard Vineyard LLC,Lompoc,93436,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,401000,34.665189,-120.36266
+Buell Ranch Vineyard LLC,Buellton,93427,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.627764,-120.188069
+Buttonwood Farm Winery-Vnyrd,Solvang,93463,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,1251000,34.621545,-120.114049
+Cal Glads,Santa Maria,93458,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,456000,34.93954,-120.457874
+Cal-Orchid Inc,Santa Barbara,93111,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,326000,34.420597,-119.806012
+Cambria Wines,Santa Maria,93454,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,301000,34.873849,-120.257844
+Cebada Vineyard,Santa Barbara,93101,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.420019,-119.699153
+Ching Hua Orchids,Santa Barbara,93105,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,326000,34.430027,-119.736235
+Cool Hand Vineyard,Buellton,93427,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.620855,-120.187519
+Delanda LLC,Los Olivos,93441,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.665126,-120.115063
+Dierberg & Star Lane Winery,Lompoc,93436,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,251000,34.645473,-120.286326
+Dierberg Estate Vineyard,Solvang,93464,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.593886,-120.138921
+Erik Van Wingarden,Carpinteria,93013,111,Producer,Floriculture Production,"cut flowers,garden plants,potted plants,foliage plants,cut cultivated greens",Crop Production,196000,34.410902,-119.519227
+Estrella Vineyards LLC,Santa Ynez,93460,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.648054,-120.04927
+Firestone Vineyard,Los Olivos,93441,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,201000,34.665126,-120.115063
+Flores Family Vineyards,Buellton,93427,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,151000,34.612736,-120.199705
+Forbidden Fruit Orchards,Lompoc,93436,111,Producer,Apple Orchards,"fresh apples,apple cider,apple juice,apple vinegar,processed apple foods",Crop Production,151000,34.678871,-120.370916
+Foxen Foxen Vineyard & Winery,Santa Maria,93454,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,1001000,34.819998,-120.230326
+Foxen Vineyard,Santa Maria,93454,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,301000,34.819998,-120.230326
+Gainey Vineyard,Lompoc,93436,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.66343,-120.34011
+Gallup & Stribling,Carpinteria,93013,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,3253000,34.415859,-119.557558
+Glad-A-Way Gardens Inc,Santa Maria,93455,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,196000,34.867127,-120.364215
+Gleason Family Vineyards LP,Santa Ynez,93460,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,251000,34.649706,-120.096138
+Grassini Family Vineyards LLC,Santa Barbara,93101,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,201000,34.421062,-119.698923
+Green Standy,Santa Barbara,93111,111,Producer,Other Vegetable (Except Potato) And Melon Farming,"broccoli,cauliflower,leafy greens,celery,carrots,onions,leeks,tomatoes,peppers,cucumber,squash,beans,peas",Crop Production,176000,34.433618,-119.802189
+Grevino LLC,Santa Maria,93455,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.859491,-120.37106
+Hilt Estate,Lompoc,93436,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,251000,34.614887,-120.40897
+HLS,Carpinteria,93013,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,586000,34.408902,-119.51234
+Honea Vineyards LP,Solvang,93463,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.644976,-120.117743
+Jackson Family Wines Inc,Santa Maria,93454,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,351000,34.873849,-120.257844
+Kitagawa Nursery,Carpinteria,93013,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,196000,34.407792,-119.530071
+L T C-Rancho Sanja Cota Vnyrd,Santa Ynez,93460,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.587502,-120.099598
+Los Alamos Vineyard,Los Alamos,93440,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,601000,34.744025,-120.277935
+Lucas & Lewellen Vineyards,Buellton,93427,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.623889,-120.185338
+Lucas & Lewellen Vineyards,Buellton,93427,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,151000,34.625467,-120.185742
+Marston Vineyard LLC,Santa Barbara,93105,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,151000,34.440373,-119.738444
+Mckinney Family Vineyards LLC,Santa Ynez,93460,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,151000,34.627893,-120.08278
+Merz Family Vineyards,Buellton,93427,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,151000,34.611042,-120.187491
+Mesa Vineyard Management Inc,Santa Maria,93454,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,7505000,34.902363,-120.361089
+Nanum Orchids Nursery Inc,Santa Maria,93455,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,196000,34.904806,-120.421135
+New Vision Harvesting Inc,Santa Maria,93458,111,Producer,Other Vegetable (Except Potato) And Melon Farming,"broccoli,cauliflower,leafy greens,celery,carrots,onions,leeks,tomatoes,peppers,cucumber,squash,beans,peas",Crop Production,264000,34.956006,-120.438772
+North Shore Greenhouses Inc,Santa Barbara,93101,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,196000,34.42432,-119.697637
+Ojai Orchard LLC,Santa Barbara,93101,111,Producer,Apple Orchards,"fresh apples,apple cider,apple juice,apple vinegar,processed apple foods",Crop Production,101000,34.424217,-119.698444
+Orchid Digest Corp,Santa Barbara,93160,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,219000,34.43703,-119.80878
+Premier Coastal Vineyard,Los Alamos,93440,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,401000,34.744025,-120.277935
+Rancho Harvest,Santa Maria,93454,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,716000,34.953103,-120.411003
+Riverbench Santa Barbara,Santa Barbara,93101,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,151000,34.414558,-119.689885
+Runway Vineyards LLC,Santa Maria,93454,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,87000,34.907516,-120.305756
+Santa Barbara Hglds Vineyard,New Cuyama,93254,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,0,34.94764,-119.688691
+Solminer Wine,Los Olivos,93441,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.665126,-120.115063
+Solomon Hills Vineyards,Orcutt,93455,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.885651,-120.434091
+SQN Office,Buellton,93427,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.588811,-120.263375
+Star Lane Vineyard & Winery,Santa Ynez,93460,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,1001000,34.656844,-119.992793
+Stolpman Vineyards LLC,Los Olivos,93441,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,1001000,34.665126,-120.115063
+Taylor Made Farm,Solvang,93464,111,Producer,Other Noncitrus Fruit Farming,"avocados,apples,stone fruits,berries,specialty fruits",Crop Production,151000,34.5939,-120.13887
+Thompson Vineyard LLC,Los Alamos,93440,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.744025,-120.277935
+Tozer Seeds America,Santa Maria,93455,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,261000,34.903724,-120.449609
+Vega Vineyard & Farm LLC,Buellton,93427,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,151000,34.591481,-120.196606
+Vineyard Industry Products,Los Alamos,93440,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,151000,34.744025,-120.277935
+Wenzlau Vineyard,Santa Barbara,93103,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.421473,-119.682233
+White Hills Vineyard Rancho,Santa Maria,93455,111,Producer,Grape Vineyards,"wine,grapes,raisins,grape juice,grape seed oil",Crop Production,101000,34.784075,-120.433878
+Williams Ranch,Carpinteria,93013,111,Producer,Other Noncitrus Fruit Farming,"avocados,apples,stone fruits,berries,specialty fruits",Crop Production,51000,34.39641,-119.454648
+Windset Farms,Santa Maria,93458,111,Producer,Nursery And Tree Production,"ornmental trees and shrubs,fruits and nuts,sod,christmas trees,landscape plants",Crop Production,1236000,34.926876,-120.481588
+246 Wine & Brew Tours,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.661981,-120.455286
+805 Wine Tours,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.593815,-120.138613
+Alma Rosa Winery Office,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,2434000,34.5963,-120.140872
+Ampelos Cellars,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.642574,-120.437803
+Andrew Murray Vineyards,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.665126,-120.115063
+Area 51 Winery,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1217000,34.414558,-119.689885
+Arete Wines LLC,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.642139,-120.440723
+Artiste Winery Los Olivos,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.665126,-120.115063
+Artiste Winery-Tasting Studio,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.613155,-120.081144
+Artiste Wines LLC,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.625774,-120.186817
+Au Bon Climate Tasting Room,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.420689,-119.699303
+Azios Cellars,Santa Barbara,93110,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.447055,-119.778594
+B W S C LLC,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.60928,-120.20261
+B W S C LLC,Santa Maria,93454,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.93832,-120.424158
+Babcock Winery & Vineyards,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,3042000,34.667505,-120.33481
+Barbieri & Kempe Wines,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.665126,-120.115063
+Beckmen Vineyards,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.665126,-120.115063
+Bedford Thompson Winery,Los Alamos,93440,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.744025,-120.277935
+Bedford Winery,Los Alamos,93440,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.744025,-120.277935
+Bien Nacido Estate Vineyards,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.665126,-120.115063
+Blackjack Ranch Vineyards-Wnry,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.647747,-120.117741
+Blair Fox Cellars,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.415822,-119.688573
+Bonaccorsi Wine Co,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.625489,-120.185821
+Brewer-Clifton,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.643014,-120.455336
+Brick Barn Winery LLC,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.621196,-120.213165
+Bridlewood Winery,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,2282000,34.652123,-120.082114
+Brigante Private Label,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.60928,-120.20261
+Buscador Winery,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,153000,34.612736,-120.199705
+C2 Cellars,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.919905,-120.46541
+Ca' Del Grevino,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.868697,-120.369731
+Carhartt Vineyard,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.665126,-120.115063
+Carina Cellars,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.6739,-120.11563
+Carpinteria Wine Co,Carpinteria,93013,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.403976,-119.534057
+Carr Winery,Santa Barbara,93103,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1369000,34.422593,-119.687626
+Carr Winery-The Warehouse,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.61162,-120.080906
+Casa Cassara Winery,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.59623,-120.141429
+Casa Cassara Winery & Vineyard,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.625489,-120.185821
+Cebada Vineyard,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.678871,-120.370916
+Central Coast Wine,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1217000,34.910172,-120.450099
+Chanin Wine Co,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.618916,-120.191882
+Cinque Stelle Winery,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.665126,-120.115063
+Cleb Wines,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.625173,-120.184895
+Clendenen Lindquist Vintners,Santa Maria,93454,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1521000,34.893604,-120.302307
+CLV Winery,Santa Maria,93454,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.893604,-120.302307
+Costa De Oro Winery,Santa Maria,93454,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.937043,-120.41733
+Cottonwoood Canyon Winery,Santa Maria,93454,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,2130000,34.883193,-120.34527
+Crawford Family Wines,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1065000,34.616152,-120.193237
+Crosshatch Winery,Santa Barbara,93103,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.422593,-119.687626
+Crosshatch Winery,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1217000,34.612558,-120.081546
+Crown Point Vineyards,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.630044,-120.014944
+Crown Point Winery,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1369000,34.630113,-120.014755
+Cushman Winery Corp,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1369000,34.665126,-120.115063
+D'Alfonso-Curran Winery,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1217000,34.608039,-120.353592
+Dark Water Winery,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.642133,-120.440325
+Dascomb Cellars,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1065000,34.594957,-120.139601
+Daz Vineyards LLC,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.601048,-120.127488
+De LA Vina Wines LLC,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.427673,-119.703632
+Debbie's Delights,Santa Barbara,93101,311,Processor,Commercial Bakeries,"bread,cakes,cookies,pastries,pies",First-stage Processing,4725000,34.419093,-119.691143
+Demetria Estate,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.665126,-120.115063
+Dragonette Cellars LLC,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1825000,34.626108,-120.186885
+Epiphany Cellars,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.665126,-120.115063
+Escalera-BOULET LLC,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.9113,-120.447796
+F2 Wines,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.642765,-120.440016
+Falcone Family Vineyards,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.60928,-120.20261
+Fess Parker Winery,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.9113,-120.447796
+Fiddlehead Cellars,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.642133,-120.440316
+Fiddlehead Cellars A CA LP,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.639159,-120.445908
+Fight Brands LLC,Santa Maria,93455,311,Processor,"Dry, Condensed, And Evaporated Dairy Product Manuf","evaporated milk,sweetened condensed milk,milk powder,whey powder,condensed buttermilk",First-stage Processing,2792000,34.876119,-120.446951
+Firestone Vineyard,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,3802000,34.665126,-120.115063
+Flying Goat Cellars,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.642763,-120.440013
+Foley Estates,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1521000,34.652149,-120.300436
+Foxen Vineyard,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.885651,-120.434091
+Foxen Winery & Vineyard,Santa Maria,93454,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,5323000,34.819998,-120.230326
+Frequency Wine Co,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.625173,-120.184895
+Gaetano,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.868697,-120.369731
+Gainey Vineyard,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,2282000,34.635528,-120.07893
+Gold Medal Wine,Santa Barbara,93111,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,3042000,34.437929,-119.809853
+Grassini Family Vineyards LLC,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.611881,-120.007674
+Grassini Family Vineyards LLC,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.602334,-120.128409
+Grassinni Family Vineyards,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.420587,-119.699133
+Gypsy Canyon Winery LLC,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.69179,-120.358949
+Happy Canyon Vineyard,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.421065,-119.69892
+Hitching Post Wines,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.607592,-120.181133
+J Wilkes Wines,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.412834,-119.690385
+J Willett Co,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.643032,-120.43527
+Jaffurs Wine Cellars,Santa Barbara,93103,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.424179,-119.683587
+Jalama Wines LLC,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.642256,-120.437807
+Jamie Slone Wines,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.420323,-119.699018
+Jonata Winery,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.614583,-120.196868
+Kalyra Winery,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.593083,-120.098329
+Ken Brown Wines,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.614583,-120.196868
+Koehler Winery,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.665126,-120.115063
+Kunin Wines LLC,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.910172,-120.450099
+L A Lepiane Wines LLC,Santa Barbara,93160,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.43703,-119.80878
+LA Montagne,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.642138,-120.440697
+Lafond Vineyard Inc,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.417381,-119.69584
+Lafond Winery & Vineyards,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.59479,-120.2696
+Land Of Saints Wine Co LLC,Orcutt,93456,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.931485,-120.433979
+Larner Winery & Vineyard,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.636445,-120.148364
+Lincourt Vineyards,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,2282000,34.633157,-120.121275
+Lo Stivale Winery Inc,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1217000,34.426802,-119.70275
+Lo-Fi Wines,Los Alamos,93440,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.744025,-120.277935
+Longoria Wines,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.642515,-120.45332
+Loring Wine Co,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.662594,-120.470294
+Loubud Wines LLC,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.61636,-120.19723
+Lucas & Lewellen Vineyards,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.623889,-120.185338
+Lutum Wines,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.643032,-120.43527
+Martian Vineyard,Los Alamos,93440,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.744025,-120.277935
+Mcclain Cellars,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.614583,-120.196868
+Melville Vineyards & Winery,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,2130000,34.66644,-120.330549
+Melville Winery,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.413697,-119.690554
+Melville-Shokrian WINERY LLC,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.625173,-120.184895
+Montecito Wine Bistro,Montecito,93108,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.437507,-119.631514
+Montemar,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1065000,34.643195,-120.439672
+Moretti Wine Co,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.642133,-120.440325
+Mosby Winery,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.591481,-120.196606
+Nagy Wines,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.860045,-120.433639
+Nicholas Bagshaw Co,Santa Maria,93454,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.909566,-120.291561
+Otrio Cellars Inc,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.596473,-120.274286
+Pacific Pickle Works,Santa Barbara,93103,311,Processor,Fruit And Vegetable Canning,"canned fruits,canned vegetables,fruit juice,jams and jellies,pickled products",First-stage Processing,6076000,34.42217,-119.681451
+Pali Wine Co,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.663149,-120.47021
+Palmina,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.642763,-120.440013
+Paradise Springs Winery,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.414284,-119.69194
+Parr Wines LLC,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.642753,-120.436992
+Paul Lato Wines LLC,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.910172,-120.450099
+Peake Ranch,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.591734,-120.24899
+Pence Ranch,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1065000,34.632701,-120.251806
+Pepsi Beverages Co,Santa Maria,93455,312,Processor,Soft Drink Manufacturing,"carbonated sodas,fruit-flavored soft drinks,bottled water,sports and energy drinks,RTD teas and coffees",First-stage Processing,18681000,34.918902,-120.457452
+Piedrasassi Wine & Bread,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.642377,-120.43975
+Point Concepcion Wines,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.661571,-120.476718
+Presqu'Ile Winery,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1521000,34.854609,-120.3715
+Presquile Winery,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.863015,-120.369522
+Prison Break Vintners LLC,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.665126,-120.115063
+Protector Cellars LLC,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.911218,-120.450318
+Rancho Arroyo Grande LLC,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.421689,-119.706225
+Rancho Boa Vista,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.61075,-120.202923
+Rancho Sisquoc Winery,Santa Maria,93454,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,2282000,34.835303,-120.189298
+Refugio Ranch,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1217000,34.665126,-120.115063
+Reyes Coca-Cola Bottling,Santa Maria,93455,312,Processor,Soft Drink Manufacturing,"carbonated sodas,fruit-flavored soft drinks,bottled water,sports and energy drinks,RTD teas and coffees",First-stage Processing,18681000,34.912217,-120.451001
+Rideau Vineyard,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,2282000,34.628179,-120.114353
+Roblar Winery & Vineyards,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.644342,-120.092055
+Roblar Winery & Vineyards,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1521000,34.649706,-120.096138
+Rosenson Wine Creations,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.625173,-120.184895
+Rusack Vineyards,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,6084000,34.635516,-120.141128
+Saarloos + Sons,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.665126,-120.115063
+Sandhi Wines,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.642364,-120.437275
+Sanford Winery & Vineyard,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1217000,34.605075,-120.331463
+Sanger Family Of Wines,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1521000,34.595872,-120.142421
+Sanguis,Santa Barbara,93103,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1065000,34.420749,-119.679357
+Santa Barbara Baking Co,Santa Barbara,93101,311,Processor,Commercial Bakeries,"bread,cakes,cookies,pastries,pies",First-stage Processing,2520000,34.419093,-119.691143
+Santa Barbara County Vintners,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.618046,-120.191172
+Santa Barbara Map,Santa Barbara,93110,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.457733,-119.7757
+Santa Barbara Winery,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.414116,-119.688664
+Santa Barbara Winery,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.417381,-119.69584
+Santa Ynez Wine Corp,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.665126,-120.115063
+Savoy Wines,Goleta,93117,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.445283,-119.85471
+Scar Of The Sea Wines,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.885651,-120.434091
+Scott Cellars,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.665126,-120.115063
+Sea Smoke Cellars,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1521000,34.664023,-120.465814
+Section Wines LLC,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.625489,-120.185821
+Section Wines LLC,Santa Barbara,93109,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.403738,-119.705206
+Shirah Wine LLC,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.911906,-120.450186
+Shoestring Winery,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.602334,-120.128409
+Shokrian Winery LLC,Los Alamos,93440,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.744025,-120.277935
+Silver Wines,Santa Barbara,93101,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.420689,-119.699303
+Solvang Bakery,Solvang,93463,311,Processor,Commercial Bakeries,"bread,cakes,cookies,pastries,pies",First-stage Processing,7088000,34.59426,-120.138429
+Somerset Vineyards,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.65098,-120.454407
+Summerland Winery,Carpinteria,93013,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1065000,34.404144,-119.534638
+Summerland Winery,Summerland,93067,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.422072,-119.601702
+Sunstone Vineyards & Winery,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.586371,-120.103835
+Talevi's Wine & Spirits,Santa Barbara,93110,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.439691,-119.771344
+Tantara Winery,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,913000,34.918625,-120.460287
+Tantara Winery,Santa Maria,93454,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.909566,-120.291561
+Tantara Wines,Santa Ynez,93460,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,1065000,34.640807,-120.05785
+Temperance Cellars LLC,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.643725,-120.438398
+Thornhill Co,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.910172,-120.450099
+Tierra Y Vino LLC,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.592281,-120.139968
+Timbre,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.911906,-120.450186
+Toretti's Family Vineyard,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.665126,-120.115063
+Tres Hermanas Vineyard-Winery,Santa Maria,93454,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.803048,-120.177205
+Tripp Wines LLC,Santa Barbara,93121,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.42142,-119.69898
+Tudor Wines,Santa Barbara,93105,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.44001,-119.751176
+Turn Key Wine Brands,Santa Maria,93455,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,15208000,34.910172,-120.450099
+Vin De Zo,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,609000,34.60928,-120.20261
+Vineyard At Royal Oaks,Solvang,93463,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.595983,-120.142406
+Whitcraft Winery,Santa Barbara,93103,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,305000,34.41782,-119.681518
+Williamson Family Wines,Buellton,93427,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.624027,-120.186982
+Windrun Vitners,Santa Barbara,93105,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,153000,34.437044,-119.716058
+Zaca Mesa Winery,Los Olivos,93441,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,3042000,34.665126,-120.115063
+Zinke Family Wines LLC,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,457000,34.643068,-120.45618
+Zotovich Vineyards,Lompoc,93436,312,Processor,Wineries,"pinot noir,chardonnay,syrah,sauvignon blanc,bordeaux-style blends",First-stage Processing,761000,34.643032,-120.43527
