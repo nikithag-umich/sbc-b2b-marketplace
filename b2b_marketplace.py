@@ -5,7 +5,7 @@ from streamlit_folium import st_folium
 from math import radians, cos, sin, asin, sqrt
 
 # -----------------------------
-# Helper: distance calculator
+# Helper function for distance
 # -----------------------------
 def haversine_distance(lat1, lon1, lat2, lon2):
     R = 3958.8  # miles
@@ -15,11 +15,11 @@ def haversine_distance(lat1, lon1, lat2, lon2):
     return 2 * R * asin(sqrt(a))
 
 # -----------------------------
-# App layout
+# Streamlit app setup
 # -----------------------------
 st.set_page_config(page_title="Local B2B Marketplace", layout="wide")
 st.title("🌾 Local B2B Marketplace: Buyers & Producers")
-st.markdown("Find **local buyers and producers** based on product and distance.")
+st.markdown("A prototype to connect **regional food producers** with **local buyers** based on product needs and distance.")
 
 # -----------------------------
 # Load data
@@ -40,38 +40,39 @@ search_keyword = st.sidebar.text_input("Optional: product keyword (overrides pre
 # =====================================================
 if user_type == "Buyer":
     buyer_names = buyers["company_name"].dropna().unique().tolist()
-    selected_company = st.sidebar.selectbox("Select your business", buyer_names)
+    selected_company = st.sidebar.selectbox("Select your business", buyer_names, key="buyer_select")
     if selected_company:
         selected_buyer = buyers.loc[buyers["company_name"] == selected_company].iloc[0]
         buyer_lat, buyer_lon = selected_buyer["latitude"], selected_buyer["longitude"]
 
-        # --- FIXED LOGIC: Use buyer’s produce_needed if keyword is empty ---
+        # Handle keyword or multi-item produce_needed
         if search_keyword.strip():
-            need = search_keyword.strip().lower()
+            need_list = [search_keyword.strip().lower()]
         else:
-            need = str(selected_buyer.get("produce_needed", "")).strip().lower()
+            raw_needs = str(selected_buyer["produce_needed"]).strip().lower()
+            need_list = [n.strip() for n in raw_needs.split(",") if n.strip()]
 
-        st.session_state["current_buyer_need"] = need  # ensures refresh consistency
-        st.subheader(f"🌱 Producers matching **{need if need else '—'}** near {selected_buyer['city']}")
+        st.subheader(f"🌱 Producers matching **{', '.join(need_list) if need_list else '—'}** near {selected_buyer['city']}")
 
-        # --- Matching logic ---
-        if need and need != "all":
-            matches = producers[
-                producers["type_produced"].astype(str).str.lower().str.contains(need, na=False)
-            ].copy()
-        else:
+        # Matching logic
+        if "all" in need_list:
             matches = producers.copy()
+        else:
+            mask = producers["type_produced"].astype(str).str.lower().apply(
+                lambda text: any(need in text for need in need_list)
+            )
+            matches = producers[mask].copy()
 
-        # Compute distance & filter
+        # Compute distance
         matches["distance_miles"] = matches.apply(
             lambda r: haversine_distance(buyer_lat, buyer_lon, r["latitude"], r["longitude"]), axis=1
         )
         matches = matches[matches["distance_miles"] <= max_distance].sort_values("distance_miles")
 
+        # Display
         if matches.empty:
             st.info("No producers found within the selected range.")
         else:
-            # Map
             m = folium.Map(location=[buyer_lat, buyer_lon], zoom_start=8)
             folium.Marker(
                 [buyer_lat, buyer_lon],
@@ -86,7 +87,6 @@ if user_type == "Buyer":
                 ).add_to(m)
             st_folium(m, width=750, height=500)
 
-            # Compact listings
             st.markdown("---")
             for _, r in matches.iterrows():
                 st.markdown(
@@ -97,7 +97,7 @@ if user_type == "Buyer":
                         <span style="color:#666;"><b>Distance:</b> {r['distance_miles']:.1f} miles</span>
                     </div>
                     """,
-                    unsafe_allow_html=True
+                    unsafe_allow_html=True,
                 )
 
 # =====================================================
@@ -105,36 +105,40 @@ if user_type == "Buyer":
 # =====================================================
 else:
     producer_names = producers["company_name"].dropna().unique().tolist()
-    selected_company = st.sidebar.selectbox("Select your business", producer_names)
+    selected_company = st.sidebar.selectbox("Select your business", producer_names, key="producer_select")
     if selected_company:
         selected_producer = producers.loc[producers["company_name"] == selected_company].iloc[0]
         prod_lat, prod_lon = selected_producer["latitude"], selected_producer["longitude"]
 
-        supply = (search_keyword if search_keyword else str(selected_producer.get("type_produced", ""))).strip().lower()
-        st.subheader(f"🛒 Buyers needing **{supply if supply else '—'}** near {selected_producer['city']}")
+        supply_raw = (search_keyword if search_keyword else str(selected_producer.get("type_produced", ""))).strip().lower()
+        supply_list = [s.strip() for s in supply_raw.split(",") if s.strip()]
+        st.subheader(f"🛒 Buyers needing **{', '.join(supply_list) if supply_list else '—'}** near {selected_producer['city']}")
 
-        # --- Matching logic ---
         buyers_copy = buyers.copy()
         buyers_copy["produce_needed"] = buyers_copy["produce_needed"].astype(str).str.lower()
 
-        if supply:
-            matches = buyers_copy[
-                (buyers_copy["produce_needed"] == "all") |
-                (buyers_copy["produce_needed"].str.contains(supply, na=False))
-            ].copy()
+        # --- FIXED FILTER LOGIC ---
+        if not supply_list:
+            # If producer has no defined products or no keyword, show only "all" buyers
+            mask = buyers_copy["produce_needed"].apply(lambda text: text.strip() == "all")
         else:
-            matches = buyers_copy[buyers_copy["produce_needed"] == "all"].copy()
+            # Match if buyer has "all" or shares any product word with the producer
+            mask = buyers_copy["produce_needed"].apply(
+                lambda text: text.strip() == "all" or any(supply in text for supply in supply_list)
+            )
 
-        # Compute distance & filter
+        matches = buyers_copy[mask].copy()
+
+        # Compute distance
         matches["distance_miles"] = matches.apply(
             lambda r: haversine_distance(prod_lat, prod_lon, r["latitude"], r["longitude"]), axis=1
         )
         matches = matches[matches["distance_miles"] <= max_distance].sort_values("distance_miles")
 
+        # Display
         if matches.empty:
             st.info("No buyers found within the selected range.")
         else:
-            # Map
             m = folium.Map(location=[prod_lat, prod_lon], zoom_start=8)
             folium.Marker(
                 [prod_lat, prod_lon],
@@ -149,7 +153,6 @@ else:
                 ).add_to(m)
             st_folium(m, width=750, height=500)
 
-            # Compact listings
             st.markdown("---")
             for _, r in matches.iterrows():
                 st.markdown(
@@ -160,5 +163,5 @@ else:
                         <span style="color:#666;"><b>Distance:</b> {r['distance_miles']:.1f} miles</span>
                     </div>
                     """,
-                    unsafe_allow_html=True
+                    unsafe_allow_html=True,
                 )
